@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5e0d421.css",
+    "main.js": "/static/js/main.9bf38abb.js",
+    "static/js/787.21680de5.chunk.js": "/static/js/787.21680de5.chunk.js",
+    "static/media/png.png": "/static/media/png.3c15cd50aedfc5bb275b.png",
+    "static/media/homepage.jpg": "/static/media/homepage.dc417a6228d579134215.jpg",
+    "static/media/HOMEPAGE1.jpg": "/static/media/HOMEPAGE1.4b464273f5e3d5bded92.jpg",
+    "static/media/HOMEPAGE2.jpg": "/static/media/HOMEPAGE2.463ea2de615e750dc3bd.jpg",
+    "static/media/Logofinal.png": "/static/media/Logofinal.d06bd1e8d0192ed55f10.png",
+    "static/media/delhiveryBoy.png": "/static/media/delhiveryBoy.c356ae139e6b0aa8f631.png",
+    "static/media/Epf.jpeg": "/static/media/Epf.dd4c94a905def9f9b877.jpeg",
+    "static/media/Pan.jpeg": "/static/media/Pan.a04480e0a54f9f54d863.jpeg",
+    "index.html": "/index.html",
+    "main.e5e0d421.css.map": "/static/css/main.e5e0d421.css.map",
+    "main.9bf38abb.js.map": "/static/js/main.9bf38abb.js.map",
+    "787.21680de5.chunk.js.map": "/static/js/787.21680de5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5e0d421.css",
+    "static/js/main.9bf38abb.js"
+  ]
+}
